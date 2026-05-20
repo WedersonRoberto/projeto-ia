@@ -1,4 +1,22 @@
 /*Estilos da minha página da web */
 *{
     margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;    
+}
+/* Geral */
+.text-center{
+    text-align:center;
+}
+margen-top-40{
+    margin-top:40px;
+}
+/* Conteiner cabeçalho */
+.conteiner-cabecalho{
+    text-align: center;
+    padding : 20px ;
+    
 }
