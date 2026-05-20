@@ -18,5 +18,26 @@ margen-top-40{
 .conteiner-cabecalho{
     text-align: center;
     padding : 20px ;
-    
+    background-color:  #04233f;    
+}
+/* Logo e Título */
+.conteiner-cabecalho h3{
+    font-weight: 600;
+    font-size: 2em;
+    color:#1194ff;
+}
+/* Menu de Navegação */
+.conteiner-navegacao {
+    text-align: center;
+    padding:20px;
+    background-color :#06345d;
+}
+.conteiner-navegacao a{
+    font-size : 1.5em ;
+    margin:0px 50px;
+    text-decoration:none;
+    color:#7cc2ff;
+}
+.conteiner-navegacao a:hover{
+    color:#ffffff;
 }
